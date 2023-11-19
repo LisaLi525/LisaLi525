@@ -1,4 +1,4 @@
-# README for LisaLi525's Portfolio
+# README for Caiwen"Lisa" Li's Resume
 
 ## Introduction
 Welcome to my portfolio! I'm **Caiwen (Lisa) Li**, a Data Scientist and Applied Scientist with a passion for leveraging data to drive business insights. This README provides an overview of my background, skills, education, and professional experience.
@@ -68,4 +68,3 @@ Feel free to reach out to me at caiwenli525@gmail.com. I am open to collaboratio
 
 Thank you for visiting my portfolio!
 
-*Note: The sections marked with # are placeholders. Please replace them with appropriate links or content.*

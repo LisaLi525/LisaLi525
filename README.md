@@ -24,7 +24,7 @@ I am an experienced Data Scientist with a strong background in machine learning,
 ## Publications
 1. C. Li (2016), "The securities market indicator for crash warning simulation optimization." Journal of System Simulation, Beijing, China.
 
-2. C. Li (2023), "Deep Learning-Based Recommendation System: Systematic Review and Classification," IEEE Access, vol. 11, pp. 113790-113835, 2023, doi: 10.1109/ACCESS.2023.3323353. [Link](https://ieeexplore.ieee.org/document/10274963)
+2. C. Li (2023), "[Deep Learning-Based Recommendation System: Systematic Review and Classification](https://ieeexplore.ieee.org/document/10274963)," IEEE Access, vol. 11, pp. 113790-113835, 2023, doi: 10.1109/ACCESS.2023.3323353.
 
 ## Special Courses
 I have completed various courses in areas such as Functional Analysis, Topology, Measure Theory, Stochastic Analysis, Financial Mathematics, and more. Additionally, I attended statistics summer schools and earned certificates in e-learning programs related to machine learning and data science.

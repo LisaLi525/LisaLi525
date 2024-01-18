@@ -46,11 +46,11 @@ I have completed various courses in areas such as Functional Analysis, Topology,
 - Conducting detailed summaries of articles on text mining techniques for recommendation systems.
 - Developing a recommendation framework, including offline pipelines, feature engineering, and user segmentation.
 
-### Business Intelligence Engineer II (11/2021 – 9/2022)
+### Data Scientist/ Data Engineer (BIE II) (11/2021 – 9/2022)
 - Conducting in-depth data analysis to identify areas for business improvement at Amazon Web Service.
 - Utilizing machine-learning algorithms for product recommendations and marketing strategies.
 
-### Data Scientist at BookXchange Inc. (4/2020 – 6/2021)
+### Data Scientist/ Project Manager at BookXchange Inc. (4/2020 – 6/2021)
 - Leading data science projects and the development team to automate platform connections.
 - Providing pricing strategies and sales price forecasting for the sourcing and sales teams.
 
@@ -61,7 +61,7 @@ I have completed various courses in areas such as Functional Analysis, Topology,
 ## Projects
 I have worked on diverse projects, including customer insights, deal journey optimization, search engine optimization, automated reporting, forecasting, and recommendation engine development. Technologies used include AWS, Google Cloud Platform, R, Python, SQL, and various analytics and visualization tools.
 
-For detailed information, please refer to the [Projects](#) section in my GitHub repository.
+Please refer to the [Projects](#) section in my GitHub repository for detailed information.
 
 ## Contact
 Feel free to reach out to me at caiwenli525@gmail.com. I am open to collaboration and discussion on data science, machine learning, and related topics.

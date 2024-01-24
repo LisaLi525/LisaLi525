@@ -46,11 +46,11 @@ I have completed various courses in areas such as Functional Analysis, Topology,
 - Conducting detailed summaries of articles on text mining techniques for recommendation systems.
 - Developing a recommendation framework, including offline pipelines, feature engineering, and user segmentation.
 
-### Data Scientist/ Data Engineer (BIE II) (11/2021 – 9/2022)
+### Data Scientist/ Data Engineer (Business Intelligence) (11/2021 – 9/2022)
 - Conducting in-depth data analysis to identify areas for business improvement at Amazon Web Service.
 - Utilizing machine-learning algorithms for product recommendations and marketing strategies.
 
-### Data Scientist/ Project Manager at BookXchange Inc. (4/2020 – 6/2021)
+### Data Science Manager at BookXchange Inc. (4/2020 – 6/2021)
 - Leading data science projects and the development team to automate platform connections.
 - Providing pricing strategies and sales price forecasting for the sourcing and sales teams.
 

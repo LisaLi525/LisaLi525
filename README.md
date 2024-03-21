@@ -42,11 +42,11 @@ I have completed various courses in areas such as Functional Analysis, Topology,
 - Excellent Student Leader Award (Hainan Normal University, Jun 2010)
 
 ## Professional Experience
-### Ph.D. Researcher (10/2022 – Present)
+### Research Scientist at UPM (10/2022 – Present)
 - Conducting detailed summaries of articles on text mining techniques for recommendation systems.
 - Developing a recommendation framework, including offline pipelines, feature engineering, and user segmentation.
 
-### Data Scientist/ Data Engineer (Business Intelligence) (11/2021 – 9/2022)
+### Data Scientist (Business Intelligence) at AWS (11/2021 – 9/2022)
 - Conducting in-depth data analysis to identify areas for business improvement at Amazon Web Service.
 - Utilizing machine-learning algorithms for product recommendations and marketing strategies.
 

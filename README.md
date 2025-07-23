@@ -3,11 +3,6 @@
 ## Introduction
 Welcome to my portfolio! I'm **Caiwen (Lisa) Li**, a Data Scientist and Applied Scientist with a passion for leveraging data to drive business insights. This README provides an overview of my background, skills, education, and professional experience.
 
-## About Me
-- **Name:** Caiwen (Lisa) Li
-- **Email:** caiwenli525@gmail.com
-- **LinkedIn:** [linkedin.com/in/licaiwen/](https://www.linkedin.com/in/licaiwen/)
-
 ## Overview
 I am an experienced Data Scientist with a strong background in machine learning, report automation, and business intelligence. My expertise spans various industries, including technology, tourism, retail, and digital media marketing. I am skilled in statistics, modeling, coding languages, digital marketing, reporting tools, databases, and machine learning algorithms.
 
